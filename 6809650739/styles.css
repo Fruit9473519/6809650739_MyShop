@@ -62,7 +62,7 @@ body {
         padding: 20px;
         margin: 50px;
         text-align: center;
-        box-shadow: 0px 0px 14px -2px rgba(0,0,0,0.8);
+        box-shadow: 0px 0px 14px -2px rgba(0,0,0,0.7);
     }
 
     .food-img {
@@ -73,7 +73,7 @@ body {
         width: 350px;
         height: 250px;
         border-radius: 15px;
-        box-shadow: 0px 0px 14px -2px rgba(0,0,0,0.8);
+        box-shadow: 0px 0px 14px -2px rgba(0,0,0,0.7);
 
         
     }
